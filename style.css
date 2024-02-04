@@ -1,0 +1,121 @@
+.logo {
+
+    font-family: montserrat;
+  
+    font-style: normal;
+  
+    font-weight: bold;
+  
+    font-size: 30px;
+  
+    line-height: 48px;
+  
+    letter-spacing: -0.02em;
+  
+    color: black;
+  
+    margin-top: 95px;
+  
+    margin-left: 40px;
+  
+  }
+  
+  
+  
+  .logo-dot {
+  
+    color: blueviolet;
+  
+  }
+  
+  
+  
+  .main-title {
+  
+    max-width: 500px;
+  
+    width: 100%;
+  
+    margin-top: 200px;
+  
+    margin-left: 200px;
+  
+    font-family: ramaraja, serif;
+  
+    font-style: normal;
+  
+    font-weight: normal;
+  
+    font-size: 72px;
+  
+    line-height: 76px;
+  
+    letter-spacing: -0.02em;
+  
+    color: yellow;
+  
+  }
+  
+  
+  
+  .main-info {
+  
+    max-width: 595px;
+  
+    width: 100%;
+  
+    margin-top: 10px;
+  
+    margin-left: 200px;
+  
+    font-family: 'open sans', sans-serif;
+  
+    font-style: normal;
+  
+    font-weight: normal;
+  
+    font-size: 18px;
+  
+    line-height: 25px;
+  
+    letter-spacing: 0.02em;
+  
+    color: blueviolet;
+  
+  }
+  
+  
+  
+  .main-btn {
+  
+    width: 150px;
+  
+    height: 65px;
+  
+    margin-top: 50px;
+  
+    margin-left: 200px;
+  
+    background-color: blueviolet;
+  
+    border-radius: 6px;
+  
+    font-family: 'open sans', sans-serif;
+  
+    font-style: normal;
+  
+    font-weight: bold;
+  
+    font-size: 16px;
+  
+    line-height: 32px;
+  
+    text-align: center;
+  
+    letter-spacing: 0.02em;
+  
+    color: green;
+  
+    border: none;
+  
+  }   
